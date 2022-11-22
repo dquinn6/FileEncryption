@@ -5,7 +5,7 @@ To test, try decrypting top_secret.jpg.encrypted with password 1234
 
 ## Binary Executable
 
-arg1: name of file(s) to use
+arg1: name of file(s) to use; cannot use relative pathing 
 
 arg2: specify encryption or decrypton | valid inputs: ['encrypt', 'decrypt']
   
